@@ -1,0 +1,14 @@
+{
+  "name": "my-first-node-server",
+  "version": "1.0.0",
+  "description": "Node server",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Kirill Golubjov",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "productName": "CargoMaster 3000",
+    "image": "🛒",
+    "location": "Global Distribution Center",
+    "area": "Logistics Operations",
+    "model": "CM-3000",
+    "price": 5000,
+    "barcode": "CM12345678",
+    "category": "Transportation",
+    "description": "Introducing the CargoMaster 3000, the ultimate solution for efficient cargo management. With advanced features and a robust design, it revolutionizes logistics with precise control, simplified tasks, and enhanced safety. Say goodbye to inefficiencies and hello to streamlined cargo management with the CargoMaster 3000. Experience the future today!"
+  },
+  {
+    "id": 1,
+    "productName": "MegaLift Forklift",
+    "image": "⚙️",
+    "location": "Warehouse B",
+    "area": "Material Handling",
+    "model": "MLF-2000",
+    "price": 10000,
+    "barcode": "MLF98765432",
+    "category": "Equipment",
+    "description": "Introducing the MegaLift Forklift, the powerhouse solution for heavy lifting and material handling. With impressive capacity, maneuverability, and advanced safety features, it's the ideal choice for warehouses and construction sites. Experience the power and precision of the MegaLift Forklift and elevate your material handling capabilities."
+  },
+  {
+    "id": 2,
+    "productName": "SecureVault Container",
+    "image": "🧰",
+    "location": "High-Security Warehouse",
+    "area": "Storage and Security",
+    "model": "SVC-2022",
+    "price": 300,
+    "barcode": "SVC87654321",
+    "category": "Storage",
+    "description": "The SecureVault Container is built with reinforced steel and tamper-proof locks, ensuring maximum protection against unauthorized access. Its state-of-the-art locking mechanism and sturdy design provide a reliable defense against theft, vandalism, and damage."
+  },
+  {
+    "id": 3,
+    "productName": "GlobalTrack GPS System",
+    "image": "💾",
+    "location": "Fleet Management Office",
+    "area": "Technology Solutions",
+    "model": "GT-500",
+    "price": 7000,
+    "barcode": "GT54321098",
+    "category": "Technology",
+    "description": "The GlobalTrack GPS System is your reliable companion for real-time tracking and monitoring. With advanced GPS technology, it provides accurate and up-to-date location information for your vehicles, assets, or loved ones. Stay in control and gain peace of mind with the GlobalTrack GPS System's intuitive interface and robust features. Track, monitor, and protect what matters most, anytime and anywhere."
+  },
+  {
+    "id": 4,
+    "productName": "AirCargo Express Drone",
+    "image": "🛸",
+    "location": "Air Freight Terminal",
+    "area": "Drone Operations",
+    "model": "ACE-500",
+    "price": 800,
+    "barcode": "ACE24681357",
+    "category": "Technology",
+    "description": "Introducing the AirCargo Express Drone, the future of fast and efficient cargo delivery. Experience swift and reliable transportation with advanced flight capabilities and intelligent navigation. Embrace the future of aerial logistics today."
+  }
+]
